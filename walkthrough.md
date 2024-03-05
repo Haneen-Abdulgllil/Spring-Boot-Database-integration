@@ -1,6 +1,6 @@
 ## Spring Boot + Database integration
 
-Before you start download and set up the base project and make sure it builds and runs successfully.
+Before you start [download](https://drive.google.com/file/d/1JkOMCSg0NnWD5_Yh-plttOe-yL_0OWHW/view?usp=sharing) and set up the base project and make sure it builds and runs successfully.
 
 ### 1. Add required maven dependencies
 
